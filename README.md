@@ -5,6 +5,11 @@ The application will then display a list of closed hawkers in a certain date.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# TODO:
+ - Group closed hawkers into their reason for closing i.e hawkers closed because of cleaning are grouped together
+ - Add a function that allows users to choose a specific date.
+ - Styling for web application
+
 ## Available Scripts
 
 In the project directory, you can run:
