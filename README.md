@@ -1,6 +1,6 @@
 # ClosedOrNot
 
-A simple web application written in React as my first experience with front-end development. The application sends an API query to data.gov.sg to fetch closed hawker dates in Singapore.
+A simple web application written in React as my first experience with front-end development. The application sends an API query to [data.gov.sg](data.gov.sg) to fetch closed hawker dates in Singapore.
 The application will then display a list of closed hawkers in a certain date.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
